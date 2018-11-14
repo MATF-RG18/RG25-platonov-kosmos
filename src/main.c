@@ -6,6 +6,7 @@
 #include <stdlib.h>
 #include <GL/glut.h>
 #include <time.h>
+#include <math.h>
 
 static void on_keyboard(unsigned char key, int x1, int y1);
 void on_display(void);
